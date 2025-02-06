@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Hotels rooms booking insights"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9d2688d7-a603-441b-a0c7-b502e0e1f192"
+  }
+}

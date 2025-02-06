@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 665.36163941535983,
+            "y": 0
+          },
+          "nodeIndex": "dim_date",
+          "nodeLineageTag": "a3e0e91b-864f-4b8e-b8f3-5b901cc904a1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 43
+          },
+          "nodeIndex": "dim_hotels",
+          "nodeLineageTag": "0bba83d9-c2fa-40c9-8fe5-ccb7fb91613e",
+          "size": {
+            "height": 185,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 619.36163941535983,
+            "y": 231
+          },
+          "nodeIndex": "dim_rooms",
+          "nodeLineageTag": "bc7b8c0a-b870-4237-93d1-7473c0a886e1",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 308.36163941535983,
+            "y": 0
+          },
+          "nodeIndex": "fact_aggregated_bookings",
+          "nodeLineageTag": "c0c2c21c-e474-4a8b-ad08-4a6b224db50b",
+          "size": {
+            "height": 200,
+            "width": 229
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 292,
+            "y": 225
+          },
+          "nodeIndex": "fact_bookings",
+          "nodeLineageTag": "05343bd2-a9ab-49ff-8319-f6aae849a195",
+          "size": {
+            "height": 195,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 949.36163941535983,
+            "y": 158
+          },
+          "nodeIndex": "Key_Measures",
+          "nodeLineageTag": "7630abc2-9e3c-4a88-935c-dfded7aa0733",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
